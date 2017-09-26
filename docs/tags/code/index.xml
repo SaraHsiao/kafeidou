@@ -6,10 +6,24 @@
     <description>Recent content in Code on Sara&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 12:36:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 18:16:08 +0800</lastBuildDate>
     
 	<atom:link href="https://sarahsiao.github.io/kafeidou/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TravelingBook</title>
+      <link>https://sarahsiao.github.io/kafeidou/2017/09/travelingbook/</link>
+      <pubDate>Tue, 26 Sep 2017 18:16:08 +0800</pubDate>
+      
+      <guid>https://sarahsiao.github.io/kafeidou/2017/09/travelingbook/</guid>
+      <description>TravelingBook  This is my iOS-APP of TravelingBook
+現在的人，特別喜歡旅行，四處走走，散心， 這個 App 將可以輕鬆記得那些地方去過、或者是也能記錄美食，在自己的心中， 給予地方風景、美食 等，任何評價噢！
+在 UI 上面，使用 UIBotton、UILabel、UIImageView、UITextField 等元件。
+在 controller 上面，使用 UITableViewController、UINavigationColloer、UITabbarController 等控制器。
+在 數據庫 上面，使用 第三方套件的雲端服務器 和 CoreData。
+源代碼，請參考，我的 GitHub 噢！</description>
+    </item>
     
     <item>
       <title>My First App</title>
