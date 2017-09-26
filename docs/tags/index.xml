@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sara&#39;s Profile</title>
-    <link>/tags/</link>
+    <link>https://sarahsiao.github.io/kafeidou/tags/</link>
     <description>Recent content in Tags on Sara&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Aug 2017 12:36:58 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sarahsiao.github.io/kafeidou/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apple</title>
-      <link>/tags/apple/</link>
+      <link>https://sarahsiao.github.io/kafeidou/tags/apple/</link>
       <pubDate>Thu, 31 Aug 2017 12:36:58 +0800</pubDate>
       
-      <guid>/tags/apple/</guid>
+      <guid>https://sarahsiao.github.io/kafeidou/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>/tags/code/</link>
+      <link>https://sarahsiao.github.io/kafeidou/tags/code/</link>
       <pubDate>Thu, 31 Aug 2017 12:36:58 +0800</pubDate>
       
-      <guid>/tags/code/</guid>
+      <guid>https://sarahsiao.github.io/kafeidou/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ios</title>
-      <link>/tags/ios/</link>
+      <link>https://sarahsiao.github.io/kafeidou/tags/ios/</link>
       <pubDate>Thu, 31 Aug 2017 12:36:58 +0800</pubDate>
       
-      <guid>/tags/ios/</guid>
+      <guid>https://sarahsiao.github.io/kafeidou/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>/tags/swift/</link>
+      <link>https://sarahsiao.github.io/kafeidou/tags/swift/</link>
       <pubDate>Thu, 31 Aug 2017 12:36:58 +0800</pubDate>
       
-      <guid>/tags/swift/</guid>
+      <guid>https://sarahsiao.github.io/kafeidou/tags/swift/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sara&#39;s Profile</title>
-    <link>/post/</link>
+    <link>https://sarahsiao.github.io/kafeidou/post/</link>
     <description>Recent content in Posts on Sara&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Aug 2017 12:36:58 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sarahsiao.github.io/kafeidou/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First App</title>
-      <link>/2017/08/my-first-app/</link>
+      <link>https://sarahsiao.github.io/kafeidou/2017/08/my-first-app/</link>
       <pubDate>Thu, 31 Aug 2017 12:36:58 +0800</pubDate>
       
-      <guid>/2017/08/my-first-app/</guid>
+      <guid>https://sarahsiao.github.io/kafeidou/2017/08/my-first-app/</guid>
       <description>Calculator  This is my iOS-APP of Calculator
 參考，Apple 手機，原本的計算機，下去實作， 在 UI 上面，使用 UIBotton、UILabel 元件， 在 UI 上面，constraints 是非常重要的，因為每個人使用的 device 不一樣。
 源代碼，請參考，我的 GitHub 噢！</description>
