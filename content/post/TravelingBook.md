@@ -13,13 +13,13 @@ tags:
 - apple
 ---
 
-# TravelingBook
-
 <ul>
 <li>This is my iOS-APP of TravelingBook</li>
 
 現在的人，特別喜歡旅行，四處走走，散心，
 這個 App 將可以輕鬆記得那些地方去過、或者是也能記錄美食，在自己的心中，
+
+<!--more-->
 給予地方風景、美食 等，任何評價噢！
 
 在 UI 上面，使用 UIBotton、UILabel、UIImageView、UITextField 等元件。

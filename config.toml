@@ -35,7 +35,7 @@ canonifyurls = true
 
 [author]
   name = "KaFei"
-  bio = "Welcome to my website"
+  bio = "Welcome to my Website"
   job = "iOS Developer"
   location = "Taipei,Taiwan"
   # Your SaraHsiao email. Overwrite `author.picture` everywhere in the blog
@@ -116,7 +116,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
   # If false it will flat categories.
-  hierarchicalCategories = true
+  hierarchicalCategories = false
 
   description = "Sara's Profile"
 
