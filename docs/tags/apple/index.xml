@@ -6,10 +6,24 @@
     <description>Recent content in Apple on Sara&#39;s Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 18:16:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 01:58:08 +0800</lastBuildDate>
     
 	<atom:link href="https://sarahsiao.github.io/kafeidou/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WeiXinTouTiao</title>
+      <link>https://sarahsiao.github.io/kafeidou/2017/10/weixintoutiao/</link>
+      <pubDate>Sun, 01 Oct 2017 01:58:08 +0800</pubDate>
+      
+      <guid>https://sarahsiao.github.io/kafeidou/2017/10/weixintoutiao/</guid>
+      <description>&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;This is my iOS-APP of WeiXinTouTiao&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;使用 localhost 和使用第三方套件來實現 WeiXinTouTiao 的 demo App&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>TravelingBook</title>
